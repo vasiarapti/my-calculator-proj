@@ -6,7 +6,7 @@ public class SubCalculator {
         int num1 = 10;
         int num2 = 2;
         int result = sub(num1, num2);
-        System.out.println(result);
+        System.out.println("Sub: " + result);
     }
 
     public static int sub(int a, int b) {
